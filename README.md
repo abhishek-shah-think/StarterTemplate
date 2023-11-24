@@ -49,6 +49,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments 🙏
 
-- Inspired by [mention any sources or inspirations here].
+- Forked from https://github.com/atharva-pardeshi/StarterTemplate.git.
 
 Happy Coding! 🚀
